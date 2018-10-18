@@ -1,3 +1,7 @@
+Alterações nos campos de data de validade do cartão e data de nascimento de inputs para selects.
+
+Abaixo segue a descrição e créditos aos autores originais do plugin:
+
 === WooCommerce PagSeguro ===
 Contributors: claudiosanches, Gabriel Reguly
 Donate link: https://claudiosanches.com/doacoes/
